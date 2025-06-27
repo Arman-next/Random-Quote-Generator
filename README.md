@@ -56,7 +56,7 @@ A simple Quote generator application where users can see random quote.
 ## 📁 Folder Structure
 
 ```bash
-Weather-App-JS/
+Random-Quote-Generator/
 ├── index.html
 ├── style.css
 └── script.js
